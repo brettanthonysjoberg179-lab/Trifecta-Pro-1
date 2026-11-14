@@ -1,0 +1,6 @@
+{
+  "name": "A2A Content & Data Engine",
+  "description": "Automated Content & Data Engine with Dolt-style versioned records, semantic RAG search, dual-mode Orchestrator, Central A2A Router, and Edge Webhook prototype.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
